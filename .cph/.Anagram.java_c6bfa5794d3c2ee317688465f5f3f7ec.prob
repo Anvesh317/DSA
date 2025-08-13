@@ -1,0 +1,1 @@
+{"name":"Local: Anagram","url":"d:\\DSA\\Anagram.java","tests":[{"id":1755077827096,"input":"cat\ntac","output":"True"},{"id":1755077848352,"input":"cat\nrat","output":"False"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Anagram.java","group":"local","local":true}
